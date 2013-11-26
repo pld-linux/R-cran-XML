@@ -2,12 +2,12 @@
 %define		modulename	XML
 Summary:	Tools for parsing and generating XML within R and S-Plus
 Name:		R-cran-%{modulename}
-Version:	3.96r1.1
+Version:	3.98r1.1
 Release:	1
 License:	GPL
 Group:		Applications/Databases
 Source0:	http://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
-# Source0-md5:	c63e655e16a10705dce3c5ab582e0805
+# Source0-md5:	d7e5b216dc83174a9e931517955013c5
 URL:		http://www.omegahat.org/RSXML
 BuildRequires:	R >= 2.8.1
 BuildRequires:	texlive-fonts-cmsuper
