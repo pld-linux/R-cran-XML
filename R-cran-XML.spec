@@ -3,7 +3,7 @@
 Summary:	Tools for parsing and generating XML within R and S-Plus
 Name:		R-cran-%{modulename}
 Version:	3.98r1.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Databases
 Source0:	http://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
